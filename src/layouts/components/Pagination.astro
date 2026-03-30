@@ -1,10 +1,13 @@
 ---
+import config from "@/config/config.json";
+
 type Pagination = {
   section?: string;
   currentPage?: number;
   totalPages?: number;
 };
 const { section, currentPage = 1, totalPages = 1 }: Pagination = Astro.props;
+const basePath = config.site.base_path ? config.site.base_path : "";
 
 const indexPageLink = currentPage === 2;
 const hasPrevPage = currentPage > 1;
@@ -27,8 +30,8 @@ for (let i = 1; i <= totalPages; i++) {
         <a
           href={
             indexPageLink
-              ? `${section ? "/" + section : "/"}`
-              : `${section ? "/" + section : ""}/page/${currentPage - 1}`
+              ? `${basePath}${section ? "/" + section : "/"}`
+              : `${basePath}${section ? "/" + section : ""}/page/${currentPage - 1}`
           }
           class="rounded px-2 py-1.5 text-text-dark hover:bg-light dark:text-darkmode-text-dark dark:hover:bg-darkmode-light"
         >
@@ -79,8 +82,8 @@ for (let i = 1; i <= totalPages; i++) {
           <a
             href={
               i === 0
-                ? `${section ? "/" + section : "/"}`
-                : `${section ? "/" + section : ""}/page/${pagination}`
+                ? `${basePath}${section ? "/" + section : "/"}`
+                : `${basePath}${section ? "/" + section : ""}/page/${pagination}`
             }
             aria-current="page"
             class="rounded px-4 py-2 text-text-dark hover:bg-light dark:text-darkmode-text-dark dark:hover:bg-darkmode-light"
@@ -93,7 +96,7 @@ for (let i = 1; i <= totalPages; i++) {
       {/* next page */}
       {hasNextPage ? (
         <a
-          href={`${section ? "/" + section : ""}/page/${currentPage + 1}`}
+          href={`${basePath}${section ? "/" + section : ""}/page/${currentPage + 1}`}
           class="rounded px-2 py-1.5 text-text-dark hover:bg-light dark:text-darkmode-text-dark dark:hover:bg-darkmode-light"
         >
           <span class="sr-only">Next</span>

@@ -1,13 +1,15 @@
 ---
+import config from "@/config/config.json";
 import AuthorCard from "@/components/AuthorCard.astro";
 import Base from "@/layouts/Base.astro";
 import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
 import PageHeader from "@/partials/PageHeader.astro";
 
 const authorIndex = await getListPage("authors", "-index");
+const basePath = config.site.base_path ? config.site.base_path : "";
 
 if (authorIndex.data.draft) {
-  return Astro.redirect("/404");
+  return Astro.redirect(`${basePath}/404`);
 }
 
 const authors = await getSinglePage("authors");

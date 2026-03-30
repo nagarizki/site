@@ -12,8 +12,9 @@ import PostSidebar from "@/partials/PostSidebar.astro";
 const BLOG_FOLDER = "blog";
 
 const postIndex = await getListPage(BLOG_FOLDER, "-index");
+const basePath = config.site.base_path ? config.site.base_path : "";
 if (postIndex.data.draft) {
-  return Astro.redirect("/404");
+  return Astro.redirect(`${basePath}/404`);
 }
 const posts = await getSinglePage(BLOG_FOLDER);
 const allCategories = await getAllTaxonomy(BLOG_FOLDER, "categories");

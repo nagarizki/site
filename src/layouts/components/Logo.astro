@@ -21,9 +21,10 @@ const {
 } = config.site;
 
 const { theme_switcher }: { theme_switcher: boolean } = config.settings;
+const basePath = config.site.base_path ? config.site.base_path : "";
 ---
 
-<a href="/" class="navbar-brand inline-block">
+<a href={basePath ? basePath : "/"} class="navbar-brand inline-block">
   {
     src || srcDarkmode || logo || logo_darkmode ? (
       <>

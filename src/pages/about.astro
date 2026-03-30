@@ -1,4 +1,5 @@
 ---
+import config from "@/config/config.json";
 import ImageMod from "@/components/ImageMod.astro";
 import Base from "@/layouts/Base.astro";
 import { getListPage } from "@/lib/contentParser.astro";
@@ -8,9 +9,10 @@ import { render } from "astro:content";
 const aboutIndex = await getListPage("about", "-index");
 const { Content } = await render(aboutIndex);
 const { title, description, meta_title, image } = aboutIndex.data;
+const basePath = config.site.base_path ? config.site.base_path : "";
 
 if (aboutIndex.data.draft) {
-  return Astro.redirect("/404");
+  return Astro.redirect(`${basePath}/404`);
 }
 ---
 

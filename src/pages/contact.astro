@@ -7,9 +7,10 @@ import PageHeader from "@/partials/PageHeader.astro";
 const contactIndex = await getListPage("contact", "-index");
 const { contact_form_action }: { contact_form_action: string } = config.params;
 const { title, description, meta_title, image } = contactIndex.data;
+const basePath = config.site.base_path ? config.site.base_path : "";
 
 if (contactIndex.data.draft) {
-  return Astro.redirect("/404");
+  return Astro.redirect(`${basePath}/404`);
 }
 ---
 
