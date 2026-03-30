@@ -2,15 +2,15 @@
   "main": [
     {
       "name": "Home",
-      "url": "/"
+      "url": "/site"
     },
     {
       "name": "About",
-      "url": "/about"
+      "url": "/site/about"
     },
     {
       "name": "Elements",
-      "url": "/elements"
+      "url": "/site/elements"
     },
     {
       "name": "Pages",
@@ -19,27 +19,27 @@
       "children": [
         {
           "name": "Contact",
-          "url": "/contact"
+          "url": "/site/contact"
         },
         {
           "name": "Blog",
-          "url": "/blog"
+          "url": "/site/blog"
         },
         {
           "name": "Authors",
-          "url": "/authors"
+          "url": "/site/authors"
         },
         {
           "name": "Categories",
-          "url": "/categories"
+          "url": "/site/categories"
         },
         {
           "name": "Tags",
-          "url": "/tags"
+          "url": "/site/tags"
         },
         {
           "name": "404 Page",
-          "url": "/404"
+          "url": "/site/404"
         }
       ]
     }
@@ -47,11 +47,11 @@
   "footer": [
     {
       "name": "Elements",
-      "url": "/elements"
+      "url": "/site/elements"
     },
     {
       "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "url": "/site/privacy-policy"
     }
   ]
 }
