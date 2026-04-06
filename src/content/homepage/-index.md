@@ -2,18 +2,18 @@
 # Banner
 banner:
   title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  content: "Astroboy is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
   image: "/images/banner.png"
   button:
     enable: true
     label: "Fork Deploy and Edit Online 🚀"
-    link: "https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate/"
+    link: "https://app.sitepins.com/new/clone?name=Astroboy&repository=https://github.com/nagarizki/site"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "What's Included in Astroboy"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "Astroboy is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroboy"
     bulletpoints:
       - "10+ Pre-build pages"
       - "95+ Google Pagespeed Score"
@@ -36,7 +36,7 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      link: "https://github.com/nagarizki/site"
 
   - title: "The Top Reasons to Choose Astro for Your Next Project"
     image: "/images/service-3.png"
