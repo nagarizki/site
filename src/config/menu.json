@@ -26,6 +26,10 @@
           "url": "/site/blog"
         },
         {
+          "name": "CV",
+          "url": "https://nagarizki.github.io/"
+        },
+        {
           "name": "Authors",
           "url": "/site/authors"
         },
