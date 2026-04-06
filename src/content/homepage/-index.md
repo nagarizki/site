@@ -1,17 +1,17 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroboy is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Hello! I'm Rizki Nagari"
+  content: "A software engineer based in Bogor, Indonesia."
   image: "/images/banner.png"
   button:
-    enable: true
+    enable: false
     label: "Fork Deploy and Edit Online 🚀"
     link: "https://app.sitepins.com/new/clone?name=Astroboy&repository=https://github.com/nagarizki/site"
 
 # Features
 features:
-  - title: "What's Included in Astroboy"
+  - title: "Working experience"
     image: "/images/service-1.png"
     content: "Astroboy is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroboy"
     bulletpoints:
@@ -26,7 +26,7 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "I can help you with"
     image: "/images/service-2.png"
     content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:
@@ -34,11 +34,11 @@ features:
       - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
       - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
     button:
-      enable: true
+      enable: false
       label: "Get Started Now"
       link: "https://github.com/nagarizki/site"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "Selected works"
     image: "/images/service-3.png"
     content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
