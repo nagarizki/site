@@ -6,7 +6,7 @@ date: 2022-04-04T05:00:00Z
 image: "/images/blog-post-1.png"
 categories: ["Application", "Data"]
 author: "Rizki"
-tags: ["nextjs", "tailwind"]
+tags: ["nextjs", "laravel"]
 draft: false
 ---
 
