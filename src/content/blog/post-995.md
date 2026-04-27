@@ -2,11 +2,11 @@
 title: "Game Theory: Smarter Decisions in Business and Life"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2026-04-19T05:00:00Z
 image: "/images/blog-post-995.png"
-categories: ["Architecture"]
+categories: ["Philosophy"]
 author: "Rizki"
-tags: ["typescript", "software"]
+tags: ["probability", "mathematics"]
 draft: false
 ---
 
@@ -35,38 +35,38 @@ Proactive bias → acting first isn’t always better
 
 #
 
-###### 1. Most decisions are strategic
+<span style="font-weight: 600;">1. Most decisions are strategic</span>
 
 You’re almost always reacting to someone else. Competitors, teammates, even markets.
 
-###### 2. Timing matters as much as action
+<span style="font-weight: 600;">2. Timing matters as much as action</span>
 
 Sometimes the question isn’t what to do, but when to do it.
 
-###### 3. Don’t assume stronger means faster
+<span style="font-weight: 600;">3. Don’t assume stronger means faster</span>
 
 Being “better” doesn’t always mean you should act first.
 Others might act early to counter you.
 
-###### 4. Break problems down
+<span style="font-weight: 600;">4. Break problems down</span>
 
 Big decisions get easier when you split them into smaller parts.
 
-###### 5. Use dominance thinking
+<span style="font-weight: 600;">5. Use dominance thinking</span>
 
 If the same choice makes sense in every scenario, just take it.
 
-###### 6. Think backwards
+<span style="font-weight: 600;">6. Think backwards</span>
 
 Start from the end goal, then figure out the steps to get there.
 This is one of the most powerful ways to think strategically.
 
-###### 7. People are overconfident
+<span style="font-weight: 600;">7. People are overconfident</span>
 
 Most people overestimate their abilities.
 That leads to bad decisions and unnecessary risks.
 
-###### 8. Acting fast isn’t always smart
+<span style="font-weight: 600;">8. Acting fast isn’t always smart</span>
 
 We’re taught to “take action,” but sometimes waiting or stepping back is the better move.
 

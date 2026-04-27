@@ -2,7 +2,7 @@
 title: "Laravel vs Next.js: Which One Should You Choose for Your Next Project?"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2026-03-22T05:00:00Z
 image: "/images/blog-post-999.png"
 categories: ["Application", "Data"]
 author: "Rizki"

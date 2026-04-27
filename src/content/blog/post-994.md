@@ -2,11 +2,11 @@
 title: "Pine Script: Creating first working strategy"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2026-04-26T05:00:00Z
 image: "/images/blog-post-994-1.png"
-categories: ["Architecture"]
+categories: ["Pine Script", "Financial Market"]
 author: "Rizki"
-tags: ["typescript", "software"]
+tags: ["pine script", "tradingview", "strategy"]
 draft: false
 ---
 
@@ -45,7 +45,7 @@ The strategy is a one-directional strategy. This is a long-only strategy, or a s
 #
 
 <p align="center">
-<img src="../../../public/images/blog-post-994-8.png" alt="BTCUSDT.P chart 4H" style="max-width: 80%; height: auto;">
+<img src="/site/images/blog-post-994-8.png" alt="BTCUSDT.P chart 4H" style="max-width: 80%; height: auto;">
 </p>
 
 #
@@ -72,10 +72,10 @@ The full criteria I set for this strategy are as follows:
 #
 
 <div style="display: flex; justify-content: space-around; gap: 0px; align-items: flex-start;">
-<img src="../../../public/images/blog-post-994-2.png" alt="Strategy results comparison" style="max-width: 24%; height: auto; flex: 1;">
-<img src="../../../public/images/blog-post-994-3.png" alt="Strategy results comparison" style="max-width: 24%; height: auto; flex: 1;">
-<img src="../../../public/images/blog-post-994-4.png" alt="Strategy results comparison" style="max-width: 24%; height: auto;">
-<img src="../../../public/images/blog-post-994-5.png" alt="Strategy results comparison" style="max-width: 24%; height: auto;">
+<img src="/site/images/blog-post-994-2.png" alt="Strategy results comparison" style="max-width: 24%; height: auto; flex: 1;">
+<img src="/site/images/blog-post-994-3.png" alt="Strategy results comparison" style="max-width: 24%; height: auto; flex: 1;">
+<img src="/site/images/blog-post-994-4.png" alt="Strategy results comparison" style="max-width: 24%; height: auto;">
+<img src="/site/images/blog-post-994-5.png" alt="Strategy results comparison" style="max-width: 24%; height: auto;">
 </div>
 
 #
@@ -87,10 +87,10 @@ And here comes the fun part. this strategy is not your typical static and boring
 #
 
 <p align="center">
-<img src="../../../public/images/blog-post-994-6.png" alt="Strategy results comparison" style="max-width: 80%; height: auto;">
+<img src="/site/images/blog-post-994-6.png" alt="Strategy results comparison" style="max-width: 80%; height: auto;">
 </p>
 <p align="center">
-<img src="../../../public/images/blog-post-994-7.png" alt="Strategy results comparison" style="max-width: 80%; height: auto;">
+<img src="/site/images/blog-post-994-7.png" alt="Strategy results comparison" style="max-width: 80%; height: auto;">
 </p>
 
 #

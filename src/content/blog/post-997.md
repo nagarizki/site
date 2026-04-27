@@ -2,7 +2,7 @@
 title: "Next.js vs React: Which Should You Choose in 2026?"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2026-04-05T05:00:00Z
 image: "/images/blog-post-997.png"
 categories: ["Software"]
 author: "Rizki"
