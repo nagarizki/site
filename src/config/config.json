@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Astroboy",
+    "title": "Astro",
     "base_url": "https://nagarizki.github.io",
     "base_path": "/site",
     "trailing_slash": false,
@@ -9,7 +9,7 @@
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "30",
-    "logo_text": "Astroboy"
+    "logo_text": "Astro"
   },
 
   "settings": {

@@ -5,12 +5,12 @@
       "url": "/site"
     },
     {
-      "name": "About",
-      "url": "/site/about"
+      "name": "Blog",
+      "url": "/site/blog"
     },
     {
-      "name": "Elements",
-      "url": "/site/elements"
+      "name": "CV",
+      "url": "https://nagarizki.github.io/"
     },
     {
       "name": "Pages",
@@ -18,16 +18,12 @@
       "hasChildren": true,
       "children": [
         {
+          "name": "About",
+          "url": "/site/about"
+        },
+        {
           "name": "Contact",
           "url": "/site/contact"
-        },
-        {
-          "name": "Blog",
-          "url": "/site/blog"
-        },
-        {
-          "name": "CV",
-          "url": "https://nagarizki.github.io/"
         },
         {
           "name": "Authors",
@@ -40,6 +36,10 @@
         {
           "name": "Tags",
           "url": "/site/tags"
+        },
+        {
+          "name": "Elements",
+          "url": "/site/elements"
         },
         {
           "name": "404 Page",

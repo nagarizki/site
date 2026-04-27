@@ -13,7 +13,7 @@ banner:
 features:
   - title: "Working experience"
     image: "/images/service-1.png"
-    content: "Astroboy is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroboy"
+    content: "Astro is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroboy"
     bulletpoints:
       - "10+ Pre-build pages"
       - "95+ Google Pagespeed Score"

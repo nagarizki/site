@@ -3,7 +3,7 @@ title: "If I Were Starting Software Engineering Today"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/blog-post-2.png"
+image: "/images/blog-post-998.png"
 categories: ["Technology", "Software"]
 author: "Rizki"
 tags: ["technology", "javascript"]

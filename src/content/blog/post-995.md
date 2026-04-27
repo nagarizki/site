@@ -3,7 +3,7 @@ title: "Game Theory: Smarter Decisions in Business and Life"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/blog-post-5.png"
+image: "/images/blog-post-995.png"
 categories: ["Architecture"]
 author: "Rizki"
 tags: ["typescript", "software"]

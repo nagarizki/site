@@ -3,7 +3,7 @@ title: "Laravel vs Next.js: Which One Should You Choose for Your Next Project?"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/blog-post-1.png"
+image: "/images/blog-post-999.png"
 categories: ["Application", "Data"]
 author: "Rizki"
 tags: ["nextjs", "laravel"]
