@@ -62,10 +62,10 @@ Now we move to the KDJ indicator. This indicator can give even more precise timi
 If you have good emotional control and management paired with contrarian thinking, you can capitalize on this moment by buying the dip. At this point, I’ve already given you a really good framework for identifying when to buy the dip. I won’t spoil everything, so from here, use your creativity and study how to improve the strategy further.
 
 For example:
-Study the KDJ candle size
-Analyze the drawdown percentage from the first candle print
-Lower the time frame and reduce position sizing
-Or experiment with other ideas you can think of
+- Study the KDJ candle size
+- Analyze the drawdown percentage from the first candle print
+- Lower the time frame and reduce position sizing
+- Or experiment with other ideas you can think of
 
 We all, as market participants, can have our own unique way of interpreting the same chart, and that is the art of technical analysis.
 
