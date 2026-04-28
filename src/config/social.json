@@ -11,14 +11,24 @@
       "link": "https://www.instagram.com/nagarizki"
     },
     {
+      "name": "threads",
+      "icon": "FaThreads",
+      "link": "https://www.threads.com/rizki.nbz"
+    },
+    {
       "name": "github",
       "icon": "FaGithub",
       "link": "https://www.github.com/nagarizki"
     },
     {
-      "name": "linkedin",
-      "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/"
+      "name": "medium",
+      "icon": "FaMedium",
+      "link": "https://medium.com/@rizki.nbz"
+    },
+    {
+      "name": "substack",
+      "icon": "FaBookmark",
+      "link": "https://substack.com/@nachbonn/posts"
     }
   ]
 }
