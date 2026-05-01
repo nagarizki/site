@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Hello! I'm Rizki Nagari"
-  content: "A software engineer based in Bogor, Indonesia."
+  title: "Hello! I'm Rizki"
+  content: ""
   image: "/images/banner.png"
   button:
     enable: false

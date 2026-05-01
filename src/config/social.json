@@ -19,16 +19,6 @@
       "name": "github",
       "icon": "FaGithub",
       "link": "https://www.github.com/nagarizki"
-    },
-    {
-      "name": "medium",
-      "icon": "FaMedium",
-      "link": "https://medium.com/@rizki.nbz"
-    },
-    {
-      "name": "substack",
-      "icon": "FaBookmark",
-      "link": "https://substack.com/@nachbonn/posts"
     }
   ]
 }
