@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Pine Script: Creating first working strategy"
 meta_title: ""
 description: "this is meta description"
@@ -101,4 +101,4 @@ Last but not least, please note that this strategy, or any strategy, is based on
 
 ######
 
-#
+# -->
